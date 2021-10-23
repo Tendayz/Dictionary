@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Словарь</string>
+    <string name="enter_word_hint">Введите слово</string>
+    <string name="transcription">[%1$s]</string>
+</resources>
